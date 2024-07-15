@@ -1,0 +1,9 @@
+Code Spell Checker
+Console Ninja
+DotEnv
+EditorConfig
+Live Server
+Omni Owl Theme
+Prettier
+Symbols
+Tailwind
