@@ -1,0 +1,104 @@
+{
+  "window.zoomLevel": 3,
+  "symbols.hidesExplorerArrows": false,
+  "workbench.colorTheme": "Omni Owl (Minimal Italics)",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.8,
+  "editor.rulers": [140],
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.renderLineHighlight": "gutter",
+  "editor.fontLigatures": true,
+  "explorer.compactFolders": false,
+  "editor.semanticHighlighting.enabled": false,
+  "breadcrumbs.enabled": false,
+  "editor.minimap.enabled": false,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.hideCursorInOverviewRuler": true,
+  "workbench.layoutControl.enabled": false,
+  "explorer.fileNesting.enabled": true,
+  "console-ninja.featureSet": "Community",
+  "cSpell.language": "en,pt",
+  "cSpell.enableFiletypes": [
+    "!asciidoc",
+    "!c",
+    "!cpp",
+    "!csharp",
+    "!go",
+    "!handlebars",
+    "!haskell",
+    "!jade",
+    "!java",
+    "!latex",
+    "!php",
+    "!pug",
+    "!python",
+    "!restructuredtext",
+    "!rust",
+    "!scala",
+    "!scss"
+  ],
+  "files.associations": {
+    ".env.*": "dotenv",
+    ".prettierrc": "json",
+    "*.css": "css",
+    ".env*": "dotenv"
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "symbols.files.associations": {
+    "*.module.ts": "nest",
+    "*.guard.ts": "typescript",
+    "*.spec.ts": "ts-test",
+    "*.e2e-spec.ts": "ts-test",
+    "vitest.config.e2e.ts": "vite",
+    ".env.example": "gear"
+  },
+  "explorer.fileNesting.patterns": {
+    "package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-lock*, bun.lockb, nest*",
+    "tailwind.config*": "tailwind.config*, postcss.config*",
+    ".env.local": ".env*",
+    ".env": ".env*"
+  },
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontFamily": "JetBrains Mono Regular Nerd Font",
+  "cSpell.userWords": [
+    "clsx",
+    "esbenp",
+    "Ionicons",
+    "lockb",
+    "myapp",
+    "nativewind",
+    "Omni",
+    "roboto",
+    "tailwindcss",
+    "typeorm",
+    "uuidv",
+    "youtube"
+  ],
+  "terminal.integrated.env.windows": {},
+  "workbench.iconTheme": "symbols",
+  "files.eol": "\n",
+  "editor.tabSize": 2,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "keyword.other.dotenv",
+        "settings": {
+          "foreground": "#FF000000"
+        }
+      }
+    ]
+  },
+  "window.menuBarVisibility": "compact",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.enable": true,
+  "prettier.singleQuote": false,
+  "prettier.useTabs": false,
+  "prettier.tabWidth": 2,
+  "prettier.semi": false,
+  "extensions.ignoreRecommendations": true,
+  "liveServer.settings.donotShowInfoMsg": true
+}
